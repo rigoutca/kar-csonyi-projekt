@@ -1,3 +1,24 @@
-.body{
+body{
     background-color: crimson;
+    }
+@media screen and (max-width: 800px) {
+    body{
+        background-color: aqua;
+    }
 }
+@media screen and (max-width: 600px) {
+    body{
+        background-color: yellow;
+    }
+}
+@media screen and (max-width: 400px) {
+    body{
+        background-color: orange;
+    }
+}
+@media screen and (max-width: 300px) {
+    body{
+        background-color: green;
+    }
+}
+
